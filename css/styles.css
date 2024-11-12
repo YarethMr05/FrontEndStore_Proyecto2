@@ -253,6 +253,7 @@ justify-content: center;
 }
 .formulario__campo::placeholder{
  color: var(--blanco);
+ 
 }
 .formulario__submit{
     background-color: var(--secundario);
